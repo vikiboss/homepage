@@ -45,7 +45,7 @@ export const Profile: Component = () => {
         </div>
         <div class='mt-8 md:mt-10 flex justify-center gap-4 max-w-md mx-auto'>
           <A
-            href='https://xlog.viki.moe'
+            href='https://blog.viki.moe'
             class='group flex items-center gap-3 p-3 px-6 md:px-8 rounded-lg bg-gray-1 hover:bg-gray-200 dark:bg-gray-7/50 dark:hover:bg-gray-7 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2'
             target='_blank'
             rel='noopener noreferrer'

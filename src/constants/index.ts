@@ -3,7 +3,7 @@ export const SITE_CONFIG = {
   domain: 'https://viki.moe',
   email: 'hi@viki.moe',
   github: 'https://github.com/vikiboss',
-  blog: 'https://xlog.viki.moe',
+  blog: 'https://blog.viki.moe',
 } as const
 
 export const STORAGE_KEYS = {
@@ -12,6 +12,6 @@ export const STORAGE_KEYS = {
 } as const
 
 export const EXTERNAL_LINKS = {
-  blog: 'https://xlog.viki.moe',
+  blog: 'https://blog.viki.moe',
   projects: 'https://github.com/vikiboss?tab=repositories&q=&type=source&language=&sort=stargazers',
 } as const
