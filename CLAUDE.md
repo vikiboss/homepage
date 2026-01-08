@@ -75,7 +75,7 @@ src/
 ```typescript
 // 站点静态配置
 export const siteConfig = {
-  avatarUrl: 'https://avatar.viki.moe',  // 头像图片路径
+  avatarUrl: 'https://blog.viki.moe/avatar.png',  // 头像图片路径
 }
 
 // 社交媒体链接配置

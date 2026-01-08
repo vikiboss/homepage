@@ -1,7 +1,7 @@
 import type { SocialLink } from './types'
 
 export const siteConfig = {
-  avatarUrl: 'https://avatar.viki.moe',
+  avatarUrl: 'https://blog.viki.moe/avatar.png',
 }
 
 export const socialLinks: SocialLink[] = [
